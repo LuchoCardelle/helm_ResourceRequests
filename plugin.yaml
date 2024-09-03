@@ -2,4 +2,4 @@ name: "ResourceRequests"
 version: 0.1.0
 usage: "Summarize resource requests for CPU and Memory across all pods"
 description: "Displays total CPU and Memory requests for all pods defined in Helm chart templates without installing them."
-command: "WhiteStack/Plugin/ResourceRequests.sh"
+command: "WhiteStack/Plugin/ResourceRequests/ResourceRequests.sh"
